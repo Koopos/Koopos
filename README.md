@@ -1,4 +1,4 @@
-## Life offfffffffffffff 👋
+## DEVELOPER
 
 <!--
 **Koopos/Koopos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
