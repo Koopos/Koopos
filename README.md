@@ -2,7 +2,19 @@
 
 嘿！我是 [你的名字]，技术狂人，编程就是我的生活。如果你也对技术充满热情，喜欢创新，甚至有点疯狂的创意——你来对地方了！🦸‍♂️
 
-![coding gif](https://media.giphy.com/media/3o6Zt8XfGsocOFUsxK/giphy.gif)
+## 🎯 我的超级抽奖动画
+
+### 彩票抽奖大揭秘
+
+![Lottery Draw Animation](https://media.giphy.com/media/l2YWB5rZ38vj3d8gA/giphy.gif)
+
+### 幸运转盘，转起来！
+
+![Lucky Wheel](https://media.giphy.com/media/1g6lxDZETxxvSBqfHr/giphy.gif)
+
+### 谁是今天的幸运儿？
+
+![Gold Bar Lottery](https://media.giphy.com/media/MVY9HAPMNxuHnInOnX/giphy.gif)
 
 ## 🚀 我的超级技能
 
