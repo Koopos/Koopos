@@ -21,8 +21,8 @@
 
 ## 🎯 我的酷炫项目
 
-### [项目1名称](项目1链接) ✨
-用 [技术1], [技术2], [技术3] 搭建的项目。项目功能炫酷，技术堆栈屌炸天。看看这个，我是如何把它做出来的！
+### [Cube](项目1链接) ✨
+用 [React Three Fiber], [Threejs], [D] 搭建的项目。项目功能炫酷，技术堆栈屌炸天。看看这个，我是如何把它做出来的！
 
 ![Project1 Animation](https://media.giphy.com/media/l3q2JcTzB1I6p4m8Y/giphy.gif)
 
