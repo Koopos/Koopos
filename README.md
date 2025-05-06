@@ -21,8 +21,8 @@
 
 ## 🎯 我的酷炫项目
 
-### [Cube](项目1链接) ✨
-用 [React Three Fiber], [Threejs], [D] 搭建的项目。项目功能炫酷，技术堆栈屌炸天。看看这个，我是如何把它做出来的！
+### [Cube](https://koopos.github.io/cubic/)) ✨
+用 [React Three Fiber], [Threejs]搭建的项目。项目功能炫酷，技术堆栈屌炸天。看看这个，我是如何把它做出来的！
 
 
 ### [项目2名称](项目2链接) 💥
